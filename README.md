@@ -11,7 +11,7 @@ This is a quick tool to generate romanized/transliterated text for an input in a
 3. Navigate into the project directory:
 
    ```bash
-   $ cd openai-quickstart-python
+   $ cd openai-transliteration
    ```
 
 4. Create a new virtual environment:
